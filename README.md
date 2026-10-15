@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Sirena 👋
 
-<!--
-**sirenaGh/SirenaGh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate specializing in Software Engineering, with experience building projects using React, Node.js, and Flutter.
 
-Here are some ideas to get you started:
+I'm interested in turning business needs into practical applications, combining software development with an eye for interface design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I've worked with
+- Frontend: JavaScript, React, HTML, CSS
+- Backend: Node.js, Express
+- Databases: MySQL
+- Mobile: Flutter, Dart
+- Tools: Git, GitHub, Postman
+
+Current focus
+Improving my existing projects through clearer architecture, better documentation, testing, and complete user journeys.
+
+What you'll find here
+Web and mobile projects, learning experiments, and ongoing improvements to my software engineering skills.
